@@ -1,8 +1,12 @@
 ## Android Developer 👋
 
-###[Notion](https://respected-clove-9fd.notion.site/Android-Developer-f13b058500e54642936da87e45203992)
 
-<a href="https://respected-clove-9fd.notion.site/Android-Developer-f13b058500e54642936da87e45203992"><img alt="Static Badge" src="https://img.shields.io/badge/Notion-FFF1CE"></a>
+
+<a href="https://respected-clove-9fd.notion.site/Android-Developer-f13b058500e54642936da87e45203992"><img alt="Static Badge" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
+
+<a href="https://respected-clove-9fd.notion.site/Android-Developer-f13b058500e54642936da87e45203992"><img alt="Static Badge" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
+<a href="mailto:win9101@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 
 <!--
 **cherryzp9094/cherryzp9094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
