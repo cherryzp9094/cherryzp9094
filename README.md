@@ -33,7 +33,6 @@
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Maestro](https://img.shields.io/badge/Maestro-FF4785?style=flat-square&logoColor=white)
 ![Jacoco](https://img.shields.io/badge/Jacoco-C71A36?style=flat-square&logoColor=white)
-![MockK](https://img.shields.io/badge/MockK-FF6B35?style=flat-square&logoColor=white)
 ![Crashlytics](https://img.shields.io/badge/Crashlytics-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 **Build & Infra**
