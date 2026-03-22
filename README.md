@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Android%20Developer%20·%20SeongKwang%20Lee&fontSize=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Android%20Developer%20·%20SeongKwang%20Lee&fontSize=36&fontColor=ffffff)
 
 ### 👋 About Me
 
