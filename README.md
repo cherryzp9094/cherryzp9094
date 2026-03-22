@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Android%20Developer%20·%20SeongKwang%20Lee&fontSize=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Android%20Developer%20·%20SeongKwang%20Lee&fontSize=36)
 
 ### 👋 About Me
 
@@ -66,4 +66,4 @@
 <a href="mailto:win9101@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/%EC%84%B1%EA%B4%91-%EC%9D%B4-391441236/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer)
