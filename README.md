@@ -3,7 +3,7 @@
 ### 👋 About Me
 
 ```
-6년차 Android 개발자 | Kotlin · Compose · MVI
+7년차 Android 개발자 | Kotlin · Compose · MVI
 🏢 공비서 (뷰티 B2B SaaS) Android 담당
 🤖 AI 자동화 · 테스트 체계 · 팀 빌딩에 관심이 많습니다
 ```
