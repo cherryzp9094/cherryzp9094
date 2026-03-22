@@ -46,7 +46,7 @@
 
 ![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-412991?style=flat-square&logoColor=white)
-
+![OpenClaw](https://img.shields.io/badge/OpenClaw-000000?style=flat-square&logoColor=white)
 ---
 
 ### 📊 GitHub Stats
