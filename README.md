@@ -34,7 +34,8 @@
 ![MVI](https://img.shields.io/badge/MVI-6DB33F?style=flat-square&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=flat-square&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-0A66C2?style=flat-square&logoColor=white)
-![Multi Module](https://img.shields.io/badge/Multi--Module%20·%20Monorepo-02303A?style=flat-square&logoColor=white)
+![Multi Module](https://img.shields.io/badge/Multi--Module-02303A?style=flat-square&logoColor=white)
+![Monorepo](https://img.shields.io/badge/Monorepo-02303A?style=flat-square&logoColor=white)
 
 **Async & Data**
 
@@ -44,7 +45,7 @@
 ![DataStore](https://img.shields.io/badge/DataStore%20(Protobuf)-4285F4?style=flat-square&logo=android&logoColor=white)
 ![WorkManager](https://img.shields.io/badge/WorkManager-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Paging3](https://img.shields.io/badge/Paging%203-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Keystore](https://img.shields.io/badge/Android%20Keystore%20·%20AES--GCM-263238?style=flat-square&logo=android&logoColor=white)
+![Keystore](https://img.shields.io/badge/Android%20Keystore-263238?style=flat-square&logo=android&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logoColor=white)
 
 **Firebase & Monitoring**
@@ -69,6 +70,7 @@
 ![Gradle](https://img.shields.io/badge/Gradle%20Kotlin%20DSL-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![Version Catalog](https://img.shields.io/badge/Version%20Catalog-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![KSP](https://img.shields.io/badge/KSP-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logoColor=white)
 
 **AI**
 
@@ -81,6 +83,20 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Zeplin](https://img.shields.io/badge/Zeplin-FDBD39?style=flat-square&logoColor=black)
+
+**Previously Used**
+
+![DataBinding](https://img.shields.io/badge/DataBinding-6E7781?style=flat-square&logo=android&logoColor=white)
+![XML View](https://img.shields.io/badge/XML%20View%20System-6E7781?style=flat-square&logo=android&logoColor=white)
+![LiveData](https://img.shields.io/badge/LiveData-6E7781?style=flat-square&logo=android&logoColor=white)
+![MVP](https://img.shields.io/badge/MVP-6E7781?style=flat-square&logoColor=white)
+![Room](https://img.shields.io/badge/Room%20%2F%20SQLite-6E7781?style=flat-square&logo=sqlite&logoColor=white)
+![Glide](https://img.shields.io/badge/Glide-6E7781?style=flat-square&logoColor=white)
+![ExoPlayer](https://img.shields.io/badge/ExoPlayer-6E7781?style=flat-square&logoColor=white)
+![Volley](https://img.shields.io/badge/Volley-6E7781?style=flat-square&logoColor=white)
 
 ---
 
